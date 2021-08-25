@@ -1,0 +1,25 @@
+{
+  "name": "is-hell",
+  "version": "1.0.0",
+  "description": "Returns true if the given value is hell.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtheskeleton/is-hell.git"
+  },
+  "keywords": [
+    "is-hell"
+  ],
+  "author": "Skelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vtheskeleton/is-hell/issues"
+  },
+  "homepage": "https://github.com/vtheskeleton/is-hell#readme",
+  "dependencies": {
+    "is-equal": "^1.6.3"
+  }
+}
